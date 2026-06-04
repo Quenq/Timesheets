@@ -1,0 +1,15 @@
+
+> timesheet-tracker-backend@1.0.0 dev
+> ts-node src/index.ts
+
+Database initialized
+Schema error: no such column: timesheet_id | SQL: CREATE INDEX IF NOT EXISTS idx_ot_calculations_timesheet_id ON ot_calculations(t
+Schema applied
+
+Server running on port 5050
+Environment: development
+
+Login at http://localhost:3000
+  Admin:      admin@example.com / password123
+  Supervisor: supervisor@example.com / password123
+
